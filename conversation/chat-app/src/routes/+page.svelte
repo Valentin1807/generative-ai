@@ -46,7 +46,7 @@
   <NavBrand href="/">
     <img src="vertex-ai-logo.png" class="mr-3 h-6 sm:h-9" alt="Vertex AI Conversation" />
     <span class="self-center whitespace-nowrap text-xl font-semibold text-black dark:text-white"
-      >Vertex AI Conversation Demo</span>
+      >Vertex AI Conversation Demo - Valentin's Space</span>
   </NavBrand>
   <NavUl {hidden}>
     <NavLi href="/" active={true}>Home</NavLi>
